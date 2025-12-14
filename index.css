@@ -179,18 +179,16 @@ main>section:nth-of-type(3) {
     height: 30%;
 }
 
-.testimonials-image {
-    width: 30%;
-    float: left;
-    display: block;
+.testimonials-image{
+    width:28%;
+    float:left;
     margin-right: 30px;
-
+    display:block;
+    padding: 30px;
 }
 
-.testimonials-image >img {
-    display: block;
-    float: right;
-    margin-top: 50px;
+.testimonials-image>img{
+    margin-left: 300px;
 }
 
 .testimonials-paragraph {
@@ -339,11 +337,9 @@ footer>img {
 }
 
 footer>ul {
+    float: right;
     list-style-type: none;
     display: inline-block;
-    margin-right: 30px;
-    float: right;
-    margin-top: 0px;
     width: 23%;
 }
 
