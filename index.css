@@ -328,3 +328,11 @@ footer>ul>li {
     display: inline-block;
     margin: 10px;
 }
+
+@media (max-width: 426px){
+    .schooled{
+        margin: 10px auto;
+        margin:40px;
+        text-align:center;
+    }
+}
